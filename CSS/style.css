@@ -112,6 +112,14 @@ h1{
     text-align: center;
 }
 
+.buttonsDiv{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
 .botaoBox{
     width: 90px;
     height:45px;
@@ -134,13 +142,6 @@ h1{
     margin: 3px;
 }
 
-.buttonsDiv{
-    margin-top: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-}
     /* .menu { width:600px; } */
 }
 
