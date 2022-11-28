@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="SideTasks" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="CSS/style.css">
+        <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+    </head>
+    <body>
+
+        <!-- Menu -->
+        <div>
+            <header> 
+                <h1> GerenTasks </h1>
+            </header>
+        </div>
+
+        <!-- Funcionalidade do site -->
+        <div id = "conteudo">
+            <!-- Adicionar novas tarefas -->
+    
+                <form id="form">
+                    <input 
+                        type="text" 
+                        id = "descricao"
+                        required = ""
+                        oninvalid="this.setCustomValidity('Insira uma tarefa')"
+                        oninput="setCustomValidity('')"
+                        placeholder="Digite a nova tarefa"
+                    />
+                    <button id="botaoAdd" type="submit">Adicionar</button>
+                  </form>
+  
+            <!-- Exibindo tarefas -->
+            <div id="Dashboard">
+            </div>
+        
+        </div>
+        
+        <div> 
+        </div>
+        <script src="script/app.js"></script>
+    </body>
+</html>
