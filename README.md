@@ -29,7 +29,7 @@ O projeto "GerenTasks" consiste em um sistema de gerenciamento de tarefas, onde 
 ## 📁 Arquivos
   ➢  **index.html** : contém a parte estrutural do programa.
   
-  ➢  **index.js** : contém a parte lógica do programa, com a manipulação do arquivo HTML.
+  ➢  **app.js** : contém a parte lógica do programa, com a manipulação do arquivo HTML.
    
   ➢  **style.css** : contém a parte visual do programa, utilizando CSS.
 
