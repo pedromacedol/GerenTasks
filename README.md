@@ -1,11 +1,38 @@
-![Download New App (1)](https://user-images.githubusercontent.com/36522521/173712158-11ca3e6c-0b9a-4b99-93bc-6cd5123ed385.png)
-## TIC-TAC-TOE GAME 
-A project to pratice logic programming and python fundamentals.
+<h1 align="center"> GerenTasks </h1>
+O projeto "GerenTasks" consiste em um sistema de gerenciamento de tarefas, onde o usuário pode adicionar e alterar o status da tarefa desejada. Para criação desse projeto os seguintes conceitos foram seguidos:
 
-<img src="https://img.icons8.com/fluency/25/undefined/rules.png"/> <a href="">Rules</a>
+- Utilize html, css ou sass e JS;
+- O usuário poderá consultar sua listagem de tarefas. Ela começará em branco;
+- Para inserir uma nova tarefa, o usuário deverá digitar o nome da tarefa em um input e clicar em um botão;
+- Deve ser possível marcar uma tarefa como concluída;
+- Deve ser possível excluir tarefas da lista;
+- A paginá terá que ser responsiva, contemplando desktop e mobile;
 
-<img src="https://img.icons8.com/officel/23/undefined/system-task.png"/>  Game layout:
+## 🔶 Campos/Funcões
 
-![Captura de tela de 2022-06-14 21-53-48](https://user-images.githubusercontent.com/36522521/173714646-c84ae9b6-b7e9-45bb-80b6-8f51ee56bb95.png)
-![Captura de tela de 2022-06-14 22-07-32](https://user-images.githubusercontent.com/36522521/173714841-e2eec718-4dd3-449c-a889-b34aa01936ed.png)
-![Captura de tela de 2022-06-14 22-07-47](https://user-images.githubusercontent.com/36522521/173714847-33a1a796-d5a2-4464-9d04-97e379cad9d4.png)
+⇒ **input ("Digite a nova tarefa")**: Recebe o valor que será o título da nova atividade;
+
+⇒ **button ("Adicionar")**: Realizar o envio e a verificação do valor a ser adicionado as tarefas;
+
+⇒ **button("Deletar")**: Exclui a tarefa da lista de atividades;
+
+⇒ **button("Adicionar")**: Altera o estilo, indicando que a tarefa foi realizada e remove o botão "concluir" após o evento;
+
+
+## 🛠️ Etapas para rodar o projeto.
+
+- Faça o download do arquivo "GERENCIADOR_DE_TAREFAS";
+- Extraia os arquivos para a pasta desejada;
+- Abra a pasta com o Visual Studio Code ou o editor da sua preferência;
+- Abra o arquivo "index.html" e rode no Live Server;
+
+## 📁 Arquivos
+  ➢  **index.html** : contém a parte estrutural do programa.
+  
+  ➢  **index.js** : contém a parte lógica do programa, com a manipulação do arquivo HTML.
+   
+  ➢  **style.css** : contém a parte visual do programa, utilizando CSS.
+
+
+
+
