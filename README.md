@@ -16,7 +16,7 @@ O projeto "GerenTasks" consiste em um sistema de gerenciamento de tarefas, onde 
 
 ⇒ **button("Deletar")**: Exclui a tarefa da lista de atividades;
 
-⇒ **button("Co")**: Altera o estilo, indicando que a tarefa foi realizada e remove o botão "concluir" após o evento;
+⇒ **button("Concluir")**: Altera o estilo, indicando que a tarefa foi realizada e remove o botão "concluir" após o evento;
 
 
 ## 🛠️ Etapas para rodar o projeto.
